@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Animal Kingdom</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_habitat">Habitat</string>
+    <string name="text_desc">Description</string>
+    <string name="all_world">All World</string>
+    <string name="mexico">Mexico</string>
+    <string name="africa">Africa</string>
+    <string name="asia">Asia</string>
+    <string name="room">Muppet\'s Room</string>
+    <string name="thumbDesc">Image\'s Description</string>
+    <string name="animal">Animal is the wild and frenzied drummer of Dr. Teeth and The Electric Mayhem, the fictional band from The Muppet Show.</string>
+    <string name="donkey">The donkey or ass, Equus africanus asinus, is a domesticated member of the horse family, Equidae. The wild ancestor of the donkey is the African wild ass, E. africanus. The donkey has been used as a working animal for at least 5000 years. There are more than 40 million donkeys in the world, mostly in underdeveloped countries, where they are used principally as draught or pack animals. Working donkeys are often associated with those living at or below subsistence levels. Small numbers of donkeys are kept for breeding or as pets in developed countries.</string>
+    <string name="cat">The domestic cat (Felis catus or Felis silvestris catus) is a small, usually furry, domesticated, and carnivorous mammal. They are often called a housecat when kept as an indoor pet,[6] or simply a cat when there is no need to distinguish them from other felids and felines. Cats are often valued by humans for companionship, and their ability to hunt vermin and household pests.</string>
+    <string name="suricate">The meerkat or suricate (Suricata suricatta) is a small carnivoran belonging to the mongoose family (Herpestidae). It is the only member of the genus Suricata. Meerkats live in all parts of the Kalahari Desert in Botswana, in much of the Namib Desert in Namibia and southwestern Angola, and in South Africa. A group of meerkats is called a "mob", "gang" or "clan". A meerkat clan often contains about 20 meerkats, but some super-families have 50 or more members. In captivity, meerkats have an average life span of 12–14 years, and about half this in the wild.</string>
+    <string name="snake">Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes that can be distinguished from legless lizards by their lack of eyelids and external ears. Like all squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws. To accommodate their narrow bodies, snakes\' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung</string>
+    <string name="tiger">The tiger (Panthera tigris) is the largest cat species, reaching a total body length of up to 3.38 m (11.1 ft) over curves and weighing up to 388.7 kg (857 lb) in the wild. Its most recognisable feature is a pattern of dark vertical stripes on reddish-orange fur with a lighter underside. The species is classified in the genus Panthera with the lion, leopard, jaguar and snow leopard. Tigers are apex predators, primarily preying on ungulates such as deer and bovids.</string>
+    <string name="name_animal">animal</string>
+    <string name="name_donkey">donkey</string>
+    <string name="name_cat">cat</string>
+    <string name="name_suricate">suri</string>
+    <string name="name_snake">snake</string>
+    <string name="name_tiger">tiger</string>
+    <string name="text_empty"></string>
+    <string name="next">Next</string>
+</resources>
