@@ -5,11 +5,9 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.ImageButton;
 
 public class AnimalFragment extends Fragment {
@@ -83,9 +81,9 @@ public class AnimalFragment extends Fragment {
                 DescFragment nf=new DescFragment();
                 Bundle bundle=new Bundle();
                 bundle.putString("INDEX", val);
+                Tablet=getArguments().getBoolean("TABLET");
                 bundle.putBoolean("TABLET",Tablet);
                 nf.setArguments(bundle);
-                Tablet=getArguments().getBoolean("TABLET");
                 if(Tablet)
                 {
                     loadFragment(nf, R.id.container_desc);
